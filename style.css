@@ -1,0 +1,48 @@
+.back {
+    background-color: lightyellow;
+}
+.memcho {
+    text-align: center;
+    color: #F3A505;
+}
+.mem {
+    width: 600px;
+    height: 300px;
+    float: left;
+}
+.mea {
+    width: 600px; 
+    height: 300px;
+    float: right;
+}
+.Lovenow {
+    text-align: center;
+    color: #FFA500;
+}
+.text {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#FFB02E;
+}
+.choose {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    height: 100px;
+    color: #F3A505;
+}
+.Neut {
+    text-align: center;
+    margin: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #FFA500;
+}
+.yay {
+    width: 900px;
+    height: 400px;
+    margin: 30px 20%;
+}
+.yaya {
+    width: 900px;
+    height: 600px;
+    margin: 30px 20%;
+}
